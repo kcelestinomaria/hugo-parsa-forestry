@@ -1,16 +1,33 @@
 ---
 label: What We Do
-hide_body: false
+hide_body: true
+display_field: The_Beginning_Starts_Here
 fields:
 - type: text
-  name: title
-  label: title
+  name: The_Beginning_Starts_Here
+  description: Maecenas finibus nisi ut nulla cursus ultricies. Praesent sed elit
+    vel turpis accumsan tristique eget at augue. Suspendisse sed augue ut nisi facilisis
+    vehicula ut et orci. Duis commodo, tellus vitae mollis sodales, lacus mauris interdum
+    sapien, sit amet dictum erat felis id risus. Phasellus sed neque placerat neque
+    pharetra tempus. Maecenas leo risus, interdum nec metus eu, bibendum varius nisi.
+    Pellentesque pulvinar sapien vitae erat cursus luctus. Integer tincidunt felis
+    nisi. Suspendisse et felis eget neque ultrices faucibus. Morbi eget lacus at risus
+    luctus commodo quis non risus. Morbi varius, mi a imperdiet iaculis, nisi est
+    efficitur felis, a convallis mi sem quis eros. Aenean et lobortis urna. Cras consequat
+    nisi maximus ipsum aliquam tempus. Curabitur lectus leo, pretium quis diam a,
+    imperdiet auctor nisl.
+  label: The Beginning
 - type: datetime
   name: date
   label: date
 - type: text
-  name: description
-  label: description
+  name: Here_is_the_description
+  label: The Description
+  description: Maecenas vehicula, magna in faucibus sagittis, nisl nisl porttitor
+    risus, ac viverra ex purus ac massa. Donec congue interdum porttitor. Phasellus
+    sed consectetur lectus. Nullam nec turpis est. Nullam ullamcorper porttitor efficitur.
+    Nunc nulla turpis, congue in finibus at, pharetra ac ligula. Vestibulum nec metus
+    massa.
 - type: text
   name: type
   label: type
