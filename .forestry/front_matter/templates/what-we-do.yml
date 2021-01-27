@@ -23,3 +23,14 @@ fields:
 - type: list
   name: tags
   label: tags
+- name: our_services
+  type: textarea
+  default: ''
+  config:
+    required: false
+    wysiwyg: false
+    schema:
+      format: markdown
+  label: Our Services
+  description: What we offer to our clients
+  hidden: false
